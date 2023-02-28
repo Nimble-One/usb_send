@@ -10,7 +10,7 @@ Tested on Ubuntu 22.04.2 LTS.
 
 ```bash
 # install prerequisites
-sudo apt install libusb-dev build-essential
+sudo apt install libusb-1.0.0-dev build-essential
 
 # compile
 make
